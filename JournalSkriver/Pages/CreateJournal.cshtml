@@ -1,0 +1,21 @@
+﻿@page
+@model JournalSkriver.Pages.CreateJournalModel
+@{
+    ViewData["Title"] = "Create Journal";
+}
+
+<h1>Skriv Heste Journal</h1>
+
+<form method="post">
+    <div>
+        <label>Titel:</label>
+        <input type="text" asp-for="Title" required />
+    </div>
+    <br />
+    <div>
+        <label>Info:</label><br />
+        <textarea asp-for="Content" rows="10" cols="50" required></textarea>
+    </div>
+    <br />
+    <button type="submit">Generate Word Document</button>
+</form>

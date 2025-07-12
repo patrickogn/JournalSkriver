@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "JournalSkriver/1.0.0": {
+        "dependencies": {
+          "DocX": "1.7.1",
+          "System.IO.Packaging": "9.0.7"
+        },
+        "runtime": {
+          "JournalSkriver.dll": {}
+        }
+      },
+      "DocX/1.7.1": {
+        "runtime": {
+          "lib/net40/Xceed.Document.NET.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          },
+          "lib/net40/Xceed.Words.NET.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      },
+      "System.IO.Packaging/9.0.7": {
+        "runtime": {
+          "lib/net9.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.725.31616"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JournalSkriver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocX/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WsbpQ238RrvZ/T/MT2UGt7GQg1CjVzntImtlKuV0Fiq37rieGPuU5wWorwZ2fKFBE78e9kx0msYqhlaIt40vLQ==",
+      "path": "docx/1.7.1",
+      "hashPath": "docx.1.7.1.nupkg.sha512"
+    },
+    "System.IO.Packaging/9.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y+jU1ehc+2GTHoPyCYqE1TEAaNuqarbdoAMF0+qCE5YSJ+VGbFzJnwO/i3T4RvFfAF4gKFgHK7+DZdJPFJ4Apg==",
+      "path": "system.io.packaging/9.0.7",
+      "hashPath": "system.io.packaging.9.0.7.nupkg.sha512"
+    }
+  }
+}

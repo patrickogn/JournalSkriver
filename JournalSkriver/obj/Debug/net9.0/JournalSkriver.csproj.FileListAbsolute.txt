@@ -1,0 +1,199 @@
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\appsettings.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.staticwebassets.runtime.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.staticwebassets.endpoints.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.exe
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.deps.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.runtimeconfig.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.dll
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.pdb
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.RazorAssemblyInfo.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.RazorAssemblyInfo.cs
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\bundle\JournalSkriver.styles.css
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\projectbundle\JournalSkriver.bundle.scp.css
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\9w0z3wjoli-b9sayid5wm.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\s6hg4pb1hc-61n19gt1b8.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\4glvytjvyn-xtxxf3hu2r.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\nwbqa0fvpl-bqjiyaj88i.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lq5szz2te2-c2jlpeoesf.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\3wlfznimm9-erw9l3u2r3.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\gwe18yye6r-aexeepp0ev.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\x26h8te00g-d7shbmvgxk.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ogtlmj3byg-ausgxo2sd3.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ijnf3d9qcz-k8d9w2qqmf.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\3o18w0wg25-cosvhxvwiu.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\z07ww6dkqz-ub07r2b239.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\rgtw1dwfkv-fvhpjtyr6v.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\9mco91twca-b7pk76d08c.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\v5i2k8w76e-fsbi9cje9m.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\wrrvu9fg33-rzd6atqjts.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\6xl5e5owj2-ee0r1s7dh0.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\bs9yx02aj7-dxx9fxp4il.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\uwdvc3z12x-jd9uben2k1.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\gpqnr6gpqs-khv3u5hwcm.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\5yee39plln-r4e9w2rdcm.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\fx7ifchpsy-lcd1t2u6c8.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\xen5x95gzu-c2oey78nd0.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\tw7goj4q0s-tdbxkamptv.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\htm3kpyvd6-j5mq2jizvt.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\62bxjrjqxi-06098lyss8.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\4apxhmhwd5-nvvlpmu67g.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lca3kdx0wf-s35ty4nyc5.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\h3r44btdb1-pj5nd1wqec.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lu6jc32lhn-46ein0sx1k.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\282amol9kn-v0zj4ognzu.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\owx40rzyre-37tfw0ft22.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\upb8hdfspz-hrwsygsryq.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\adhx7ggsy4-pk9g2wxc8p.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\sp8y0wvgy2-ft3s53vfgj.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\wwtmz4x4th-6cfz1n2cew.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\az9s6lj6yu-6pdc2jztkx.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\pu3fea5u5k-493y06b0oq.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\vasxkmlvcm-iovd86k7lj.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\6f0q1es2s9-vr1egmr9el.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j6d0d2re9r-kbrnm935zg.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\h682gceru0-jj8uyg4cgr.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\g8242gnn06-y7v9cxd14o.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lzclc4q8nn-notf2xhcfb.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\dlt9l9bbq4-h1s4sie4z3.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ppzv6xbsha-63fj8s7r0e.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\0f1pcabznr-0j3bgjxly4.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\d3a7hxoqd1-47otxtyo56.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\hhqb20t1wn-4v8eqarkd7.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\m2lg75szor-356vix0kms.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\n3b15vivtx-83jwlth58m.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\me74kl0rfy-mrlpezrjn3.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\hkcdk1mo21-lzl9nlhx6b.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\l2ybbamsml-ag7o75518u.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\nwlbx8g20n-x0q3zqp4vz.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\jxg5l5q92i-0i3buxo5is.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\dhxoa3f7k8-o1o13a6vjx.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j3la5za77u-ttgo8qnofa.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\5pwbadegn1-2z0ns9nrw6.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\irc51461dt-muycvpuwrr.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j9687kgij9-87fc7y1x7t.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\w40xvrrxp4-mlv21k5csn.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\zulfolxfys-bq009phz6z.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\y2ch513xuk-bq009phz6z.gz
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.dll
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\refint\JournalSkriver.dll
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.pdb
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# Reps\JournalSkriver\JournalSkriver\obj\Debug\net9.0\ref\JournalSkriver.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\appsettings.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.staticwebassets.endpoints.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.staticwebassets.runtime.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.exe
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.deps.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.runtimeconfig.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\JournalSkriver.pdb
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.AssemblyInfo.cs
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.RazorAssemblyInfo.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.RazorAssemblyInfo.cs
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\bundle\JournalSkriver.styles.css
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\scopedcss\projectbundle\JournalSkriver.bundle.scp.css
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\9w0z3wjoli-b9sayid5wm.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\s6hg4pb1hc-61n19gt1b8.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\4glvytjvyn-xtxxf3hu2r.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\nwbqa0fvpl-bqjiyaj88i.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lq5szz2te2-c2jlpeoesf.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\3wlfznimm9-erw9l3u2r3.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\gwe18yye6r-aexeepp0ev.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\x26h8te00g-d7shbmvgxk.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ogtlmj3byg-ausgxo2sd3.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ijnf3d9qcz-k8d9w2qqmf.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\3o18w0wg25-cosvhxvwiu.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\z07ww6dkqz-ub07r2b239.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\rgtw1dwfkv-fvhpjtyr6v.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\9mco91twca-b7pk76d08c.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\v5i2k8w76e-fsbi9cje9m.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\wrrvu9fg33-rzd6atqjts.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\6xl5e5owj2-ee0r1s7dh0.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\bs9yx02aj7-dxx9fxp4il.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\uwdvc3z12x-jd9uben2k1.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\gpqnr6gpqs-khv3u5hwcm.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\5yee39plln-r4e9w2rdcm.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\fx7ifchpsy-lcd1t2u6c8.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\xen5x95gzu-c2oey78nd0.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\tw7goj4q0s-tdbxkamptv.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\htm3kpyvd6-j5mq2jizvt.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\62bxjrjqxi-06098lyss8.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\4apxhmhwd5-nvvlpmu67g.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lca3kdx0wf-s35ty4nyc5.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\h3r44btdb1-pj5nd1wqec.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lu6jc32lhn-46ein0sx1k.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\282amol9kn-v0zj4ognzu.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\owx40rzyre-37tfw0ft22.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\upb8hdfspz-hrwsygsryq.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\adhx7ggsy4-pk9g2wxc8p.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\sp8y0wvgy2-ft3s53vfgj.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\wwtmz4x4th-6cfz1n2cew.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\az9s6lj6yu-6pdc2jztkx.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\pu3fea5u5k-493y06b0oq.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\vasxkmlvcm-iovd86k7lj.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\6f0q1es2s9-vr1egmr9el.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j6d0d2re9r-kbrnm935zg.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\h682gceru0-jj8uyg4cgr.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\g8242gnn06-y7v9cxd14o.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\lzclc4q8nn-notf2xhcfb.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\dlt9l9bbq4-h1s4sie4z3.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\ppzv6xbsha-63fj8s7r0e.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\0f1pcabznr-0j3bgjxly4.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\d3a7hxoqd1-47otxtyo56.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\hhqb20t1wn-4v8eqarkd7.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\m2lg75szor-356vix0kms.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\n3b15vivtx-83jwlth58m.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\me74kl0rfy-mrlpezrjn3.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\hkcdk1mo21-lzl9nlhx6b.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\l2ybbamsml-ag7o75518u.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\nwlbx8g20n-x0q3zqp4vz.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\jxg5l5q92i-0i3buxo5is.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\dhxoa3f7k8-o1o13a6vjx.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j3la5za77u-ttgo8qnofa.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\5pwbadegn1-2z0ns9nrw6.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\irc51461dt-muycvpuwrr.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\j9687kgij9-87fc7y1x7t.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\w40xvrrxp4-mlv21k5csn.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\zulfolxfys-bq009phz6z.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\compressed\y2ch513xuk-bq009phz6z.gz
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalS.10A0A07C.Up2Date
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\refint\JournalSkriver.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.pdb
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\JournalSkriver.genruntimeconfig.cache
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\obj\Debug\net9.0\ref\JournalSkriver.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\Xceed.Document.NET.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\Xceed.Words.NET.dll
+C:\Users\patri\Desktop\JournalSkriver\backend\JournalSkriver\JournalSkriver\bin\Debug\net9.0\System.IO.Packaging.dll
